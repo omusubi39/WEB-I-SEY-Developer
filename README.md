@@ -1,4 +1,4 @@
- # WEB-I-SEY-Developer
+ # WEB-I-SEY-Developer　日本語バージョン
 
  WEB-I-SEYのアプリやWEBサイトの状況やお知らせなどの事を発信していきます！
 
